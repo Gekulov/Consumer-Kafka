@@ -1,0 +1,8 @@
+C:\Users\gkulo\IdeaProjects\dropwizard\test4\src\main\java\com\kulov\bank\BankApplication.java
+C:\Users\gkulo\IdeaProjects\dropwizard\test4\src\main\java\com\kulov\bank\service\CustomerService.java
+C:\Users\gkulo\IdeaProjects\dropwizard\test4\src\main\java\com\kulov\bank\service\CustomerServiceImpl.java
+C:\Users\gkulo\IdeaProjects\dropwizard\test4\src\main\java\com\kulov\bank\BankConfiguration.java
+C:\Users\gkulo\IdeaProjects\dropwizard\test4\src\main\java\com\kulov\bank\model\Customer.java
+C:\Users\gkulo\IdeaProjects\dropwizard\test4\src\main\java\com\kulov\bank\dao\CustomerDAO.java
+C:\Users\gkulo\IdeaProjects\dropwizard\test4\src\main\java\com\kulov\bank\recourses\CustomerResource.java
+C:\Users\gkulo\IdeaProjects\dropwizard\test4\src\main\java\com\kulov\bank\service\KafkaConsumerService.java
